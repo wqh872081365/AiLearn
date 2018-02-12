@@ -1,1 +1,4 @@
 tensorflow==1.5.0
+pipenv==9.0.3
+pandas==0.22.0
+flake8==3.5.0
